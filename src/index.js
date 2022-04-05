@@ -1,2 +1,2 @@
-const text = 'ciao';
-console.log(test)
+const text = 'ciao io sono';
+console.log(text);
